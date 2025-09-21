@@ -99,6 +99,6 @@ mvn spring-boot:run
 Access the app in your browser:
 👉 http://localhost:8081
 
-📄 License
+📄 License - (LICENCE)
 
 This project is licensed under the MIT License.
