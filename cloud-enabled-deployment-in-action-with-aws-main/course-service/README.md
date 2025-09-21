@@ -1,5 +1,13 @@
 🚀 Deployment in Google Cloud Platform (GCP)
 
+Author:
+
+👩‍💻 Sarasi Nishala
+
+Batch: GDSE68 | Student ID: 2301682049
+
+📧 Email: sarasinishala@gmail.com
+
 
 🌟 Project Overview
 
@@ -99,6 +107,6 @@ mvn spring-boot:run
 Access the app in your browser:
 👉 http://localhost:8081
 
-📄 License - (LICENCE)
+📄 License
 
 This project is licensed under the MIT License.
