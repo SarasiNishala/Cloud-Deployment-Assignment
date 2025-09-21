@@ -15,7 +15,7 @@ Running the app with a cloud-hosted database
 
 🎥 Demo Video
 
-📌 Watch the Demonstration
+📌 Watch the Demonstration - https://drive.google.com/file/d/1px0k0kVq5zW2zY6Zak0jRXP_Uvknzf8i/view?usp=sharing
 
 ⚙️ Google Cloud MySQL Configuration Guide
 Phase 1: Access Google Cloud Console
@@ -98,3 +98,7 @@ mvn spring-boot:run
 
 Access the app in your browser:
 👉 http://localhost:8081
+
+📄 License
+
+This project is licensed under the MIT License.
